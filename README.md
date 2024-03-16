@@ -1,5 +1,3 @@
-Documentation:
-
 # YouTube Downloader
 
 This project is a simple YouTube video downloader that allows users to input a YouTube video URL and download the video in MP4 format. It consists of a frontend interface built with HTML, CSS, and JavaScript, and a backend server built with Node.js using Express and `ytdl-core`.
