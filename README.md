@@ -70,7 +70,7 @@ To install and run the YouTube downloader on your local machine, follow these st
 - cors: CORS middleware for Express.
 - ytdl-core: YouTube video downloader.
 
-## `ytdl-core`
+## ytdl-core
 
 [`ytdl-core`](https://github.com/fent/node-ytdl-core) is a Node.js module that provides a simple way to download YouTube videos programmatically. It offers a range of features, including the ability to retrieve video information, validate YouTube URLs, and download videos in various formats and quality levels. `ytdl-core` is widely used in projects that require YouTube video downloading functionality due to its reliability and ease of use.
 
