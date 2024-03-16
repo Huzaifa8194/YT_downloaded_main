@@ -2,12 +2,12 @@ Documentation:
 
 # YouTube Downloader
 
-This project is a simple YouTube video downloader that allows users to input a YouTube video URL and download the video in MP4 format. It consists of a frontend interface built with HTML, CSS, and JavaScript, and a backend server built with Node.js using Express and ytdl-core.
+This project is a simple YouTube video downloader that allows users to input a YouTube video URL and download the video in MP4 format. It consists of a frontend interface built with HTML, CSS, and JavaScript, and a backend server built with Node.js using Express and `ytdl-core`.
 
 ## Features
 
-- Input a YouTube video URL
-- Download the video in MP4 format
+- **Input YouTube Video URL:** Users can conveniently input any valid YouTube video URL into the provided input field.
+- **Download in MP4 Format:** The application seamlessly downloads the specified YouTube video in MP4 format, ensuring compatibility across various devices and platforms.
 
 
 ## Installation
@@ -70,6 +70,9 @@ To install and run the YouTube downloader on your local machine, follow these st
 - cors: CORS middleware for Express.
 - ytdl-core: YouTube video downloader.
 
+## `ytdl-core`
+
+[`ytdl-core`](https://github.com/fent/node-ytdl-core) is a Node.js module that provides a simple way to download YouTube videos programmatically. It offers a range of features, including the ability to retrieve video information, validate YouTube URLs, and download videos in various formats and quality levels. `ytdl-core` is widely used in projects that require YouTube video downloading functionality due to its reliability and ease of use.
 
 ## Contributing
 
@@ -80,8 +83,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 This project is licensed under the **GNU General Public License version 3 (GPL-3.0)**. 
 
 You are free to use, modify, and distribute this software under the terms and conditions of the GPL-3.0 license. Any distribution of derivative works must also be licensed under the GPL-3.0 license and must provide access to the corresponding source code. For more information, please see the [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html).
-
-
-
-
 
