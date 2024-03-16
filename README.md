@@ -17,7 +17,7 @@ To install and run the YouTube downloader on your local machine, follow these st
 1. **Clone the Repository:** Begin by cloning the repository to your local environment using the following command:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Ki11switch12/YT-Downloader.git
     ```
 
 2. **Install Server Dependencies:** Navigate to the `Server` directory and install the required dependencies by executing the following command:
