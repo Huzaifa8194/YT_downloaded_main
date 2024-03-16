@@ -1,0 +1,40 @@
+    /* Custom styles */
+    .footer {
+        background-color: black;
+        color: white;
+        padding: 20px 0;
+        text-align: center;
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+    }
+    .social-icons {
+        margin-top: 10px;
+    }
+    .social-icons a {
+        color: white;
+        margin: 0 10px;
+        text-decoration: none;
+    }
+    .copyright {
+        margin-top: 10px;
+        font-size: 12px;
+    }
+    
+    .download-button {
+        /* Your custom styles here */
+        background-color: #000000;
+        color: #ffffff;
+        border: none;
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: 0.3s ease;
+    }
+    
+    .download-button:hover {
+        background-color: #2b2b2b !important;
+        color: #ffffff;
+    }
+
+    

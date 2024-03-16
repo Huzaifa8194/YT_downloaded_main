@@ -1,4 +1,4 @@
-var convertBtn = document.querySelector('.convert-button');
+var convertBtn = document.querySelector('.download-button');
 var URLinput = document.querySelector('.URL-input');
 convertBtn.addEventListener('click', () => {
     console.log(`URL: ${URLinput.value}`);
